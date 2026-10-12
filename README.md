@@ -2,12 +2,13 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 27 (Easy: 17, Medium: 9, Hard: 0)
+Solved: 28 (Easy: 18, Medium: 9, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | 2026-10-12 |
 | 595 | [Big Countries](595-big-countries/) | Easy | 2026-10-12 |
+| 173 | [Binary Search Tree Iterator](173-binary-search-tree-iterator/) | Medium | 2026-10-12 |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](1008-construct-binary-search-tree-from-preorder-traversal/) | Medium | 2026-10-12 |
 | 1089 | [Duplicate Zeros](1089-duplicate-zeros/) | Easy | 2026-10-12 |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](1287-element-appearing-more-than-25-in-sorted-array/) | Easy | 2026-10-12 |
@@ -32,5 +33,5 @@ Solved: 27 (Easy: 17, Medium: 9, Hard: 0)
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-12 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-12 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-12 |
-| 173 | [Binary Search Tree Iterator](173-binary-search-tree-iterator/) | Medium | 2026-10-12 |
+| 589 | [N-ary Tree Preorder Traversal](589-n-ary-tree-preorder-traversal/) | Easy | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
