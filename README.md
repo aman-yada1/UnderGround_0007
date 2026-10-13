@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 29 (Easy: 19, Medium: 9, Hard: 0)
+Solved: 30 (Easy: 20, Medium: 9, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -30,9 +30,10 @@ Solved: 29 (Easy: 19, Medium: 9, Hard: 0)
 | 117 | [Populating Next Right Pointers in Each Node II](117-populating-next-right-pointers-in-each-node-ii/) | Medium | 2026-10-13 |
 | 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-10-13 |
 |  | [replace-employee-id-with-the-unique-identifier](replace-employee-id-with-the-unique-identifier/) | Unknown | 2026-10-13 |
+| 2418 | [Sort the People](2418-sort-the-people/) | Easy | 2026-10-13 |
 | 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-13 |
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-13 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-13 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-13 |
-| 2418 | [Sort the People](2418-sort-the-people/) | Easy | 2026-10-13 |
+| 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2026-10-13 |
 <!-- LEETHUB:TABLE:END -->
