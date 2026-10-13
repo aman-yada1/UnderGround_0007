@@ -1,4 +1,4 @@
-// 15 ms | 31.4 MB
+// 12 ms | 31.3 MB
 class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
