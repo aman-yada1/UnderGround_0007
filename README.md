@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 33 (Easy: 20, Medium: 12, Hard: 0)
+Solved: 34 (Easy: 20, Medium: 13, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -29,6 +29,7 @@ Solved: 33 (Easy: 20, Medium: 12, Hard: 0)
 | 589 | [N-ary Tree Preorder Traversal](589-n-ary-tree-preorder-traversal/) | Easy | 2026-10-14 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy | 2026-10-14 |
 | 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-10-14 |
+| 279 | [Perfect Squares](279-perfect-squares/) | Medium | 2026-10-14 |
 | 116 | [Populating Next Right Pointers in Each Node](116-populating-next-right-pointers-in-each-node/) | Medium | 2026-10-14 |
 | 117 | [Populating Next Right Pointers in Each Node II](117-populating-next-right-pointers-in-each-node-ii/) | Medium | 2026-10-14 |
 | 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-10-14 |
@@ -38,5 +39,5 @@ Solved: 33 (Easy: 20, Medium: 12, Hard: 0)
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-14 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-14 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-14 |
-| 279 | [Perfect Squares](279-perfect-squares/) | Medium | 2026-10-14 |
+| 429 | [N-ary Tree Level Order Traversal](429-n-ary-tree-level-order-traversal/) | Medium | 2026-10-14 |
 <!-- LEETHUB:TABLE:END -->
