@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 39 (Easy: 23, Medium: 14, Hard: 1)
+Solved: 40 (Easy: 23, Medium: 15, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -39,10 +39,11 @@ Solved: 39 (Easy: 23, Medium: 14, Hard: 1)
 |  | [replace-employee-id-with-the-unique-identifier](replace-employee-id-with-the-unique-identifier/) | Unknown | 2026-10-16 |
 | 2418 | [Sort the People](2418-sort-the-people/) | Easy | 2026-10-16 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-16 |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard | 2026-10-16 |
 | 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-10-16 |
 | 1337 | [The K Weakest Rows in a Matrix](1337-the-k-weakest-rows-in-a-matrix/) | Easy | 2026-10-16 |
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-16 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-16 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-16 |
-| 2916 | [Subarrays Distinct Element Sum of Squares II](2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard | 2026-10-16 |
+| 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-16 |
 <!-- LEETHUB:TABLE:END -->
