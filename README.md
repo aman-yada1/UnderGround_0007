@@ -2,10 +2,11 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 44 (Easy: 25, Medium: 17, Hard: 1)
+Solved: 45 (Easy: 26, Medium: 17, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
+| 1305 | [All Elements in Two Binary Search Trees](1305-all-elements-in-two-binary-search-trees/) | Medium | 2026-10-18 |
 | 637 | [Average of Levels in Binary Tree](637-average-of-levels-in-binary-tree/) | Easy | 2026-10-18 |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | 2026-10-18 |
 | 595 | [Big Countries](595-big-countries/) | Easy | 2026-10-18 |
@@ -49,5 +50,5 @@ Solved: 44 (Easy: 25, Medium: 17, Hard: 1)
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-18 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-18 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-18 |
-| 1305 | [All Elements in Two Binary Search Trees](1305-all-elements-in-two-binary-search-trees/) | Medium | 2026-10-18 |
+| 586 | [Customer Placing the Largest Number of Orders](586-customer-placing-the-largest-number-of-orders/) | Easy | 2026-10-18 |
 <!-- LEETHUB:TABLE:END -->
