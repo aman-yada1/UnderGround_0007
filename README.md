@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 43 (Easy: 25, Medium: 16, Hard: 1)
+Solved: 44 (Easy: 25, Medium: 17, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Solved: 43 (Easy: 25, Medium: 16, Hard: 1)
 | 3131 | [Find the Integer Added to Array I](3131-find-the-integer-added-to-array-i/) | Easy | 2026-10-18 |
 | 1517 | [Find Users With Valid E-Mails](1517-find-users-with-valid-e-mails/) | Easy | 2026-10-18 |
 | 3436 | [Find Valid Emails](3436-find-valid-emails/) | Easy | 2026-10-18 |
+| 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-18 |
 | 1367 | [Linked List in Binary Tree](1367-linked-list-in-binary-tree/) | Medium | 2026-10-18 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 2026-10-18 |
 | 3723 | [Maximize Sum of Squares of Digits](3723-maximize-sum-of-squares-of-digits/) | Medium | 2026-10-18 |
@@ -48,5 +49,5 @@ Solved: 43 (Easy: 25, Medium: 16, Hard: 1)
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-18 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-18 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-18 |
-| 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-18 |
+| 1305 | [All Elements in Two Binary Search Trees](1305-all-elements-in-two-binary-search-trees/) | Medium | 2026-10-18 |
 <!-- LEETHUB:TABLE:END -->
