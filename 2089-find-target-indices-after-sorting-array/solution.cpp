@@ -1,23 +1,14 @@
-// 5 ms | 16.1 MB
+// 0 ms | 15.1 MB
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
-        map<int,int> mp;
-        for(int x: nums){
-            mp[x]++;
-        }
+        sort(nums.begin(),nums.end());
         vector<int> ans;
-        for(auto v : mp){
-            while(v.second--){
-                ans.push_back(v.first);
+        for(int i=0;i<nums.size();i++){
+            if(nums[i] == target){
+                ans.push_back(i);
             }
         }
-        vector<int> a;
-        for(int i=0;i<ans.size();i++){
-            if(ans[i] == target){
-                a.push_back(i);
-            }
-        }
-        return a;
+        return ans;
     }
 };
