@@ -22,6 +22,7 @@ Solved: 46 (Easy: 27, Medium: 17, Hard: 1)
 | 1729 | [Find Followers Count](1729-find-followers-count/) | Easy | 2026-10-19 |
 | 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-19 |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 2026-10-19 |
+| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-10-19 |
 | 28 | [Find the Index of the First Occurrence in a String](28-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 2026-10-19 |
 | 3131 | [Find the Integer Added to Array I](3131-find-the-integer-added-to-array-i/) | Easy | 2026-10-19 |
 | 1517 | [Find Users With Valid E-Mails](1517-find-users-with-valid-e-mails/) | Easy | 2026-10-19 |
@@ -51,5 +52,4 @@ Solved: 46 (Easy: 27, Medium: 17, Hard: 1)
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-19 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-19 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-19 |
-| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | Easy | 2026-10-19 |
 <!-- LEETHUB:TABLE:END -->
