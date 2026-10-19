@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 47 (Easy: 27, Medium: 18, Hard: 1)
+Solved: 48 (Easy: 28, Medium: 18, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -37,6 +37,7 @@ Solved: 47 (Easy: 27, Medium: 18, Hard: 1)
 | 429 | [N-ary Tree Level Order Traversal](429-n-ary-tree-level-order-traversal/) | Medium | 2026-10-19 |
 | 590 | [N-ary Tree Postorder Traversal](590-n-ary-tree-postorder-traversal/) | Easy | 2026-10-19 |
 | 589 | [N-ary Tree Preorder Traversal](589-n-ary-tree-preorder-traversal/) | Easy | 2026-10-19 |
+| 177 | [Nth Highest Salary](177-nth-highest-salary/) | Medium | 2026-10-19 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy | 2026-10-19 |
 | 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-10-19 |
 | 279 | [Perfect Squares](279-perfect-squares/) | Medium | 2026-10-19 |
@@ -52,5 +53,5 @@ Solved: 47 (Easy: 27, Medium: 18, Hard: 1)
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-19 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-19 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-19 |
-| 177 | [Nth Highest Salary](177-nth-highest-salary/) | Medium | 2026-10-19 |
+| 1539 | [Kth Missing Positive Number](1539-kth-missing-positive-number/) | Easy | 2026-10-19 |
 <!-- LEETHUB:TABLE:END -->
