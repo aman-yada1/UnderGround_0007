@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 52 (Easy: 31, Medium: 19, Hard: 1)
+Solved: 53 (Easy: 31, Medium: 20, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -17,6 +17,7 @@ Solved: 52 (Easy: 31, Medium: 19, Hard: 1)
 | 586 | [Customer Placing the Largest Number of Orders](586-customer-placing-the-largest-number-of-orders/) | Easy | 2026-10-20 |
 | 1089 | [Duplicate Zeros](1089-duplicate-zeros/) | Easy | 2026-10-20 |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](1287-element-appearing-more-than-25-in-sorted-array/) | Easy | 2026-10-20 |
+| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy | 2026-10-20 |
 | 513 | [Find Bottom Left Tree Value](513-find-bottom-left-tree-value/) | Medium | 2026-10-20 |
 | 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-10-20 |
 | 1729 | [Find Followers Count](1729-find-followers-count/) | Easy | 2026-10-20 |
@@ -57,5 +58,5 @@ Solved: 52 (Easy: 31, Medium: 19, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-20 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-20 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-20 |
-| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy | 2026-10-20 |
+| 207 | [Course Schedule](207-course-schedule/) | Medium | 2026-10-20 |
 <!-- LEETHUB:TABLE:END -->
