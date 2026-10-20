@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 51 (Easy: 30, Medium: 19, Hard: 1)
+Solved: 52 (Easy: 31, Medium: 19, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -55,6 +55,7 @@ Solved: 51 (Easy: 30, Medium: 19, Hard: 1)
 | 1337 | [The K Weakest Rows in a Matrix](1337-the-k-weakest-rows-in-a-matrix/) | Easy | 2026-10-20 |
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-20 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-20 |
-| 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-20 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-20 |
+| 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-20 |
+| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy | 2026-10-20 |
 <!-- LEETHUB:TABLE:END -->
