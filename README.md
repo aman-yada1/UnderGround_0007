@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 50 (Easy: 29, Medium: 19, Hard: 1)
+Solved: 51 (Easy: 30, Medium: 19, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -47,6 +47,7 @@ Solved: 50 (Easy: 29, Medium: 19, Hard: 1)
 | 117 | [Populating Next Right Pointers in Each Node II](117-populating-next-right-pointers-in-each-node-ii/) | Medium | 2026-10-20 |
 | 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-10-20 |
 |  | [replace-employee-id-with-the-unique-identifier](replace-employee-id-with-the-unique-identifier/) | Unknown | 2026-10-20 |
+| 671 | [Second Minimum Node In a Binary Tree](671-second-minimum-node-in-a-binary-tree/) | Easy | 2026-10-20 |
 | 2418 | [Sort the People](2418-sort-the-people/) | Easy | 2026-10-20 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-20 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard | 2026-10-20 |
@@ -55,5 +56,5 @@ Solved: 50 (Easy: 29, Medium: 19, Hard: 1)
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-20 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-20 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-20 |
-| 671 | [Second Minimum Node In a Binary Tree](671-second-minimum-node-in-a-binary-tree/) | Easy | 2026-10-20 |
+| 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-20 |
 <!-- LEETHUB:TABLE:END -->
