@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 54 (Easy: 31, Medium: 21, Hard: 1)
+Solved: 55 (Easy: 31, Medium: 22, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -37,6 +37,7 @@ Solved: 54 (Easy: 31, Medium: 21, Hard: 1)
 | 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-10-21 |
 | 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-10-21 |
 | 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-21 |
+| 3863 | [Minimum Operations to Sort a String](3863-minimum-operations-to-sort-a-string/) | Medium | 2026-10-21 |
 | 429 | [N-ary Tree Level Order Traversal](429-n-ary-tree-level-order-traversal/) | Medium | 2026-10-21 |
 | 590 | [N-ary Tree Postorder Traversal](590-n-ary-tree-postorder-traversal/) | Easy | 2026-10-21 |
 | 589 | [N-ary Tree Preorder Traversal](589-n-ary-tree-preorder-traversal/) | Easy | 2026-10-21 |
@@ -59,5 +60,5 @@ Solved: 54 (Easy: 31, Medium: 21, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-21 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-21 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-21 |
-| 3863 | [Minimum Operations to Sort a String](3863-minimum-operations-to-sort-a-string/) | Medium | 2026-10-21 |
+| 994 | [Rotting Oranges](994-rotting-oranges/) | Medium | 2026-10-21 |
 <!-- LEETHUB:TABLE:END -->
