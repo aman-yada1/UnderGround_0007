@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 57 (Easy: 31, Medium: 24, Hard: 1)
+Solved: 58 (Easy: 31, Medium: 25, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -13,6 +13,7 @@ Solved: 57 (Easy: 31, Medium: 24, Hard: 1)
 | 173 | [Binary Search Tree Iterator](173-binary-search-tree-iterator/) | Medium | 2026-10-22 |
 | 107 | [Binary Tree Level Order Traversal II](107-binary-tree-level-order-traversal-ii/) | Medium | 2026-10-22 |
 | 563 | [Binary Tree Tilt](563-binary-tree-tilt/) | Easy | 2026-10-22 |
+| 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal/) | Medium | 2026-10-22 |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](1008-construct-binary-search-tree-from-preorder-traversal/) | Medium | 2026-10-22 |
 | 207 | [Course Schedule](207-course-schedule/) | Medium | 2026-10-22 |
 | 586 | [Customer Placing the Largest Number of Orders](586-customer-placing-the-largest-number-of-orders/) | Easy | 2026-10-22 |
@@ -62,5 +63,5 @@ Solved: 57 (Easy: 31, Medium: 24, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-22 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-22 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-22 |
-| 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal/) | Medium | 2026-10-22 |
+| 1372 | [Longest ZigZag Path in a Binary Tree](1372-longest-zigzag-path-in-a-binary-tree/) | Medium | 2026-10-22 |
 <!-- LEETHUB:TABLE:END -->
