@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 61 (Easy: 32, Medium: 27, Hard: 1)
+Solved: 62 (Easy: 33, Medium: 27, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -53,6 +53,7 @@ Solved: 61 (Easy: 32, Medium: 27, Hard: 1)
 | 279 | [Perfect Squares](279-perfect-squares/) | Medium | 2026-10-25 |
 | 116 | [Populating Next Right Pointers in Each Node](116-populating-next-right-pointers-in-each-node/) | Medium | 2026-10-25 |
 | 117 | [Populating Next Right Pointers in Each Node II](117-populating-next-right-pointers-in-each-node-ii/) | Medium | 2026-10-25 |
+| 1068 | [Product Sales Analysis I](1068-product-sales-analysis-i/) | Easy | 2026-10-25 |
 | 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-10-25 |
 |  | [replace-employee-id-with-the-unique-identifier](replace-employee-id-with-the-unique-identifier/) | Unknown | 2026-10-25 |
 | 994 | [Rotting Oranges](994-rotting-oranges/) | Medium | 2026-10-25 |
@@ -66,5 +67,5 @@ Solved: 61 (Easy: 32, Medium: 27, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-25 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-25 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-25 |
-| 1068 | [Product Sales Analysis I](1068-product-sales-analysis-i/) | Easy | 2026-10-25 |
+| 607 | [Sales Person](607-sales-person/) | Easy | 2026-10-25 |
 <!-- LEETHUB:TABLE:END -->
