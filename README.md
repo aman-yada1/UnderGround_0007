@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 60 (Easy: 31, Medium: 27, Hard: 1)
+Solved: 61 (Easy: 32, Medium: 27, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -46,6 +46,7 @@ Solved: 60 (Easy: 31, Medium: 27, Hard: 1)
 | 590 | [N-ary Tree Postorder Traversal](590-n-ary-tree-postorder-traversal/) | Easy | 2026-10-25 |
 | 589 | [N-ary Tree Preorder Traversal](589-n-ary-tree-preorder-traversal/) | Easy | 2026-10-25 |
 | 177 | [Nth Highest Salary](177-nth-highest-salary/) | Medium | 2026-10-25 |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/) | Medium | 2026-10-25 |
 | 200 | [Number of Islands](200-number-of-islands/) | Medium | 2026-10-25 |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy | 2026-10-25 |
 | 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-10-25 |
@@ -65,5 +66,5 @@ Solved: 60 (Easy: 31, Medium: 27, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-25 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-25 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-25 |
-| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/) | Medium | 2026-10-25 |
+| 1068 | [Product Sales Analysis I](1068-product-sales-analysis-i/) | Easy | 2026-10-25 |
 <!-- LEETHUB:TABLE:END -->
