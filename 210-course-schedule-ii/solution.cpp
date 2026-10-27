@@ -1,0 +1,71 @@
+// 65 ms | 17.4 MB
+class Solution {
+public:
+    bool isCycle(int src, vector<bool>& vis, vector<bool>& rec, vector<vector<int>>& edges){
+        vis[src] = true;
+        rec[src] = true;
+
+        for(int i=0;i<edges.size();i++){
+            int v = edges[i][0];
+            int u = edges[i][1];
+
+            if(src == u){
+                if(!vis[v]){
+                    if(isCycle(v,vis,rec,edges)){
+                        return true;
+                    }
+                }
+                else if(rec[v]){
+                    return true;
+                }
+            }
+        }
+        rec[src] = false;
+        return false;
+    }
+
+    void topologicalOrder(int src, vector<bool>& vis, stack<int>& s,vector<vector<int>>& edges){
+        vis[src] = true;
+
+        for(int i=0;i<edges.size();i++){
+            int v = edges[i][0];
+            int u = edges[i][1];
+
+            if(src == u){
+                if(!vis[v]){
+                    topologicalOrder(v,vis,s,edges);
+                }
+            }
+        }
+        s.push(src);
+    }
+
+    vector<int> findOrder(int n, vector<vector<int>>& edges) {
+        vector<bool> vis(n,false);
+        vector<bool> rec(n,false);
+        vector<int> ans;
+
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                if(isCycle(i,vis,rec,edges)){
+                    return ans;
+                }
+            }
+        }
+
+        stack<int> s;
+        vis.assign(n,false);
+
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                topologicalOrder(i,vis,s,edges);
+            }
+        }
+        while(!s.empty()){
+            ans.push_back(s.top());
+            s.pop();
+        }
+
+        return ans;
+    }
+};
