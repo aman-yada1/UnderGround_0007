@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 65 (Easy: 34, Medium: 29, Hard: 1)
+Solved: 66 (Easy: 35, Medium: 29, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Solved: 65 (Easy: 34, Medium: 29, Hard: 1)
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](1008-construct-binary-search-tree-from-preorder-traversal/) | Medium | 2026-10-27 |
 | 3619 | [Count Islands With Total Value Divisible by K](3619-count-islands-with-total-value-divisible-by-k/) | Medium | 2026-10-27 |
 | 207 | [Course Schedule](207-course-schedule/) | Medium | 2026-10-27 |
+| 210 | [Course Schedule II](210-course-schedule-ii/) | Medium | 2026-10-27 |
 | 586 | [Customer Placing the Largest Number of Orders](586-customer-placing-the-largest-number-of-orders/) | Easy | 2026-10-27 |
 | 1089 | [Duplicate Zeros](1089-duplicate-zeros/) | Easy | 2026-10-27 |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](1287-element-appearing-more-than-25-in-sorted-array/) | Easy | 2026-10-27 |
@@ -70,5 +71,5 @@ Solved: 65 (Easy: 34, Medium: 29, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-27 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-27 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-27 |
-| 210 | [Course Schedule II](210-course-schedule-ii/) | Medium | 2026-10-27 |
+| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/) | Easy | 2026-10-27 |
 <!-- LEETHUB:TABLE:END -->
