@@ -1,4 +1,4 @@
-// 0 ms | 17.6 MB
+// 0 ms | 17.5 MB
 class Solution {
 public:
     int finalValueAfterOperations(vector<string>& n) {
