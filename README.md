@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 68 (Easy: 36, Medium: 30, Hard: 1)
+Solved: 69 (Easy: 37, Medium: 30, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -15,6 +15,7 @@ Solved: 68 (Easy: 36, Medium: 30, Hard: 1)
 | 107 | [Binary Tree Level Order Traversal II](107-binary-tree-level-order-traversal-ii/) | Medium | 2026-10-28 |
 | 563 | [Binary Tree Tilt](563-binary-tree-tilt/) | Easy | 2026-10-28 |
 | 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal/) | Medium | 2026-10-28 |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy | 2026-10-28 |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](1008-construct-binary-search-tree-from-preorder-traversal/) | Medium | 2026-10-28 |
 | 3619 | [Count Islands With Total Value Divisible by K](3619-count-islands-with-total-value-divisible-by-k/) | Medium | 2026-10-28 |
 | 207 | [Course Schedule](207-course-schedule/) | Medium | 2026-10-28 |
@@ -73,5 +74,5 @@ Solved: 68 (Easy: 36, Medium: 30, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-28 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-28 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-28 |
-| 2042 | [Check if Numbers Are Ascending in a Sentence](2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy | 2026-10-28 |
+| 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/) | Easy | 2026-10-28 |
 <!-- LEETHUB:TABLE:END -->
