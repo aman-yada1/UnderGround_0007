@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 67 (Easy: 35, Medium: 30, Hard: 1)
+Solved: 68 (Easy: 36, Medium: 30, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -46,6 +46,7 @@ Solved: 67 (Easy: 35, Medium: 30, Hard: 1)
 | 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-28 |
 | 3942 | [Minimum Operations to Sort a Permutation](3942-minimum-operations-to-sort-a-permutation/) | Medium | 2026-10-28 |
 | 3863 | [Minimum Operations to Sort a String](3863-minimum-operations-to-sort-a-string/) | Medium | 2026-10-28 |
+| 3882 | [Minimum XOR Path in a Grid](3882-minimum-xor-path-in-a-grid/) | Medium | 2026-10-28 |
 | 429 | [N-ary Tree Level Order Traversal](429-n-ary-tree-level-order-traversal/) | Medium | 2026-10-28 |
 | 590 | [N-ary Tree Postorder Traversal](590-n-ary-tree-postorder-traversal/) | Easy | 2026-10-28 |
 | 589 | [N-ary Tree Preorder Traversal](589-n-ary-tree-preorder-traversal/) | Easy | 2026-10-28 |
@@ -72,5 +73,5 @@ Solved: 67 (Easy: 35, Medium: 30, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-28 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-28 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-28 |
-| 3882 | [Minimum XOR Path in a Grid](3882-minimum-xor-path-in-a-grid/) | Medium | 2026-10-28 |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy | 2026-10-28 |
 <!-- LEETHUB:TABLE:END -->
