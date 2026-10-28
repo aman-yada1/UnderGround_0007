@@ -1,4 +1,4 @@
-// 469 ms | 62 MB
+// 484 ms | 61.9 MB
 class Solution {
 public:
     int minCost(vector<vector<int>>& grid) {
