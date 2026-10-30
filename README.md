@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 71 (Easy: 38, Medium: 31, Hard: 1)
+Solved: 72 (Easy: 39, Medium: 31, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -63,6 +63,7 @@ Solved: 71 (Easy: 38, Medium: 31, Hard: 1)
 | 1068 | [Product Sales Analysis I](1068-product-sales-analysis-i/) | Easy | 2026-10-30 |
 | 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-10-30 |
 |  | [replace-employee-id-with-the-unique-identifier](replace-employee-id-with-the-unique-identifier/) | Unknown | 2026-10-30 |
+| 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-10-30 |
 | 994 | [Rotting Oranges](994-rotting-oranges/) | Medium | 2026-10-30 |
 | 607 | [Sales Person](607-sales-person/) | Easy | 2026-10-30 |
 | 671 | [Second Minimum Node In a Binary Tree](671-second-minimum-node-in-a-binary-tree/) | Easy | 2026-10-30 |
@@ -76,5 +77,5 @@ Solved: 71 (Easy: 38, Medium: 31, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-30 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-30 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-30 |
-| 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-10-30 |
+| 3823 | [Reverse Letters Then Special Characters in a String](3823-reverse-letters-then-special-characters-in-a-string/) | Easy | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
