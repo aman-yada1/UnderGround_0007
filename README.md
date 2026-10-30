@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 70 (Easy: 37, Medium: 31, Hard: 1)
+Solved: 71 (Easy: 38, Medium: 31, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -66,6 +66,7 @@ Solved: 70 (Easy: 37, Medium: 31, Hard: 1)
 | 994 | [Rotting Oranges](994-rotting-oranges/) | Medium | 2026-10-30 |
 | 607 | [Sales Person](607-sales-person/) | Easy | 2026-10-30 |
 | 671 | [Second Minimum Node In a Binary Tree](671-second-minimum-node-in-a-binary-tree/) | Easy | 2026-10-30 |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 2026-10-30 |
 | 2418 | [Sort the People](2418-sort-the-people/) | Easy | 2026-10-30 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-30 |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard | 2026-10-30 |
@@ -75,5 +76,5 @@ Solved: 70 (Easy: 37, Medium: 31, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-30 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-30 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-30 |
-| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 2026-10-30 |
+| 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
