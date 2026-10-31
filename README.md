@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 74 (Easy: 41, Medium: 31, Hard: 1)
+Solved: 75 (Easy: 42, Medium: 31, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -68,6 +68,7 @@ Solved: 74 (Easy: 41, Medium: 31, Hard: 1)
 | 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-10-31 |
 | 994 | [Rotting Oranges](994-rotting-oranges/) | Medium | 2026-10-31 |
 | 607 | [Sales Person](607-sales-person/) | Easy | 2026-10-31 |
+| 1796 | [Second Largest Digit in a String](1796-second-largest-digit-in-a-string/) | Easy | 2026-10-31 |
 | 671 | [Second Minimum Node In a Binary Tree](671-second-minimum-node-in-a-binary-tree/) | Easy | 2026-10-31 |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 2026-10-31 |
 | 2418 | [Sort the People](2418-sort-the-people/) | Easy | 2026-10-31 |
@@ -79,5 +80,5 @@ Solved: 74 (Easy: 41, Medium: 31, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-31 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-31 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-31 |
-| 1796 | [Second Largest Digit in a String](1796-second-largest-digit-in-a-string/) | Easy | 2026-10-31 |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value](2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy | 2026-10-31 |
 <!-- LEETHUB:TABLE:END -->
