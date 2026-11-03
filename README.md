@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 77 (Easy: 43, Medium: 32, Hard: 1)
+Solved: 79 (Easy: 43, Medium: 34, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -49,6 +49,7 @@ Solved: 77 (Easy: 43, Medium: 32, Hard: 1)
 | 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-11-03 |
 | 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-11-03 |
 | 462 | [Minimum Moves to Equal Array Elements II](462-minimum-moves-to-equal-array-elements-ii/) | Medium | 2026-11-03 |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/) | Easy | 2026-11-03 |
 | 3942 | [Minimum Operations to Sort a Permutation](3942-minimum-operations-to-sort-a-permutation/) | Medium | 2026-11-03 |
 | 3863 | [Minimum Operations to Sort a String](3863-minimum-operations-to-sort-a-string/) | Medium | 2026-11-03 |
 | 3882 | [Minimum XOR Path in a Grid](3882-minimum-xor-path-in-a-grid/) | Medium | 2026-11-03 |
@@ -65,6 +66,7 @@ Solved: 77 (Easy: 43, Medium: 32, Hard: 1)
 | 117 | [Populating Next Right Pointers in Each Node II](117-populating-next-right-pointers-in-each-node-ii/) | Medium | 2026-11-03 |
 | 1068 | [Product Sales Analysis I](1068-product-sales-analysis-i/) | Easy | 2026-11-03 |
 | 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-11-03 |
+| 19 | [Remove Nth Node From End of List](19-remove-nth-node-from-end-of-list/) | Medium | 2026-11-03 |
 |  | [replace-employee-id-with-the-unique-identifier](replace-employee-id-with-the-unique-identifier/) | Unknown | 2026-11-03 |
 | 3823 | [Reverse Letters Then Special Characters in a String](3823-reverse-letters-then-special-characters-in-a-string/) | Easy | 2026-11-03 |
 | 917 | [Reverse Only Letters](917-reverse-only-letters/) | Easy | 2026-11-03 |
@@ -82,5 +84,5 @@ Solved: 77 (Easy: 43, Medium: 32, Hard: 1)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-11-03 |
 | 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-11-03 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-03 |
-| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/) | Easy | 2026-11-03 |
+| 3217 | [Delete Nodes From Linked List Present in Array](3217-delete-nodes-from-linked-list-present-in-array/) | Medium | 2026-11-03 |
 <!-- LEETHUB:TABLE:END -->
